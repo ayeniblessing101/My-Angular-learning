@@ -1,0 +1,4 @@
+/* Add application styles & imports to this file! */
+.form-control.ng-invalid.ng-touched {
+  border: 2px solid red;
+}
